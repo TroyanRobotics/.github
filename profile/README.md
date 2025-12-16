@@ -1,7 +1,7 @@
 # **Troyan Robotics**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/troyanrobotics/.github/main/profile/logo.png" width="220" alt="Troyan Robotics Logo">
+  <img src="./Troyan_Robotics.png" width="220" alt="Troyan Robotics Logo">
 </p>
 
 **Troyan Robotics** is a student-led robotics team from the **Universidad Autónoma de Querétaro (UAQ)** and the **Facultad de Informática (FIF)**.  
